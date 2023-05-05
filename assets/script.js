@@ -28,7 +28,7 @@ if (uppercase) passwordSource += uppercaseArray;
 if (numeric) passwordSource += numericArray;
 if (specialchar) passwordSource += specialCharArray;
 // Add alert if user didn't pick any of the caharcters
-if (passwordSource.length === 0) {alert("Please..") 
+if (passwordSource.length === 0) {alert("Please make sure to pich at least one of the characters") 
 return ""}  
 // For loop for creating password from user's picks of proposed variables of characters 
 for (i=0; i<pwLength; i++) {
