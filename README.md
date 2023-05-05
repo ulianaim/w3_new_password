@@ -31,3 +31,4 @@ The following picture shows the web application's appearance:
 ![alt text](./assets/w_3_password.png)
 
 The following link would take you to an actual website so you can generate password for yourself 
+https://ulianaim.github.io/w3_new_password/
